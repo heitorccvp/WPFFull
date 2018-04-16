@@ -1,0 +1,17 @@
+c:\users\heitor.neto\documents\visual studio 2017\Projects\WpfTeste\WpfTeste\bin\Debug\WpfTeste.exe.config
+c:\users\heitor.neto\documents\visual studio 2017\Projects\WpfTeste\WpfTeste\bin\Debug\WpfTeste.exe
+c:\users\heitor.neto\documents\visual studio 2017\Projects\WpfTeste\WpfTeste\bin\Debug\WpfTeste.pdb
+c:\users\heitor.neto\documents\visual studio 2017\Projects\WpfTeste\WpfTeste\obj\Debug\WpfTeste.csprojResolveAssemblyReference.cache
+c:\users\heitor.neto\documents\visual studio 2017\Projects\WpfTeste\WpfTeste\obj\Debug\MainWindow.g.cs
+c:\users\heitor.neto\documents\visual studio 2017\Projects\WpfTeste\WpfTeste\obj\Debug\App.g.cs
+c:\users\heitor.neto\documents\visual studio 2017\Projects\WpfTeste\WpfTeste\obj\Debug\WpfTeste_MarkupCompile.cache
+c:\users\heitor.neto\documents\visual studio 2017\Projects\WpfTeste\WpfTeste\obj\Debug\WpfTeste_MarkupCompile.lref
+c:\users\heitor.neto\documents\visual studio 2017\Projects\WpfTeste\WpfTeste\obj\Debug\MainWindow.baml
+c:\users\heitor.neto\documents\visual studio 2017\Projects\WpfTeste\WpfTeste\obj\Debug\WpfTeste.g.resources
+c:\users\heitor.neto\documents\visual studio 2017\Projects\WpfTeste\WpfTeste\obj\Debug\WpfTeste.Properties.Resources.resources
+c:\users\heitor.neto\documents\visual studio 2017\Projects\WpfTeste\WpfTeste\obj\Debug\WpfTeste.csproj.GenerateResource.Cache
+c:\users\heitor.neto\documents\visual studio 2017\Projects\WpfTeste\WpfTeste\obj\Debug\WpfTeste.csproj.CoreCompileInputs.cache
+c:\users\heitor.neto\documents\visual studio 2017\Projects\WpfTeste\WpfTeste\obj\Debug\WpfTeste.exe
+c:\users\heitor.neto\documents\visual studio 2017\Projects\WpfTeste\WpfTeste\obj\Debug\WpfTeste.pdb
+C:\Users\heitor.neto\Documents\Visual Studio 2017\Projects\WpfTeste\WpfTeste\bin\Debug\Utilitarios.dll
+C:\Users\heitor.neto\Documents\Visual Studio 2017\Projects\WpfTeste\WpfTeste\bin\Debug\Utilitarios.pdb

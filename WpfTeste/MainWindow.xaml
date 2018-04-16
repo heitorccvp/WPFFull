@@ -1,0 +1,38 @@
+﻿<Window x:Class="WpfTeste.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfTeste"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="457" Width="1135">
+    <Border Background="LightBlue" 
+          BorderBrush="Black" 
+          BorderThickness="2" 
+          CornerRadius="45" 
+          Padding="25">
+        <Grid Background="White" ShowGridLines="True" Name="grid1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+
+            <StackPanel Grid.Column="0" Grid.Row="0" HorizontalAlignment="Left" Name="StackPanel1" VerticalAlignment="Top">
+                <TextBlock FontSize="18" HorizontalAlignment="Center" Margin="0,0,0,15" Width="250"  TextAlignment="Center">Xml </TextBlock>
+               <TextBox Name="txtXml" Height="289" AcceptsReturn="True" AcceptsTab="True" SpellCheck.IsEnabled="True" />
+            </StackPanel>
+
+            <StackPanel Grid.Column="1" Grid.Row="0" HorizontalAlignment="Stretch" Name="StackPanel2" VerticalAlignment="Top" Orientation="Vertical">
+                <TextBlock FontSize="18" HorizontalAlignment="Center" Margin="0,0,0,15" Width="250" >Processamento</TextBlock>
+                <Button Name="btnProcessar" Content="Processar" Width="250" HorizontalAlignment="Center" Click="btnProcessar_Click" ></Button>
+                
+            </StackPanel>
+
+            
+            
+        </Grid>
+    </Border>
+
+
+</Window>

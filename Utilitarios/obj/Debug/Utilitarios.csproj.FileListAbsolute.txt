@@ -1,0 +1,8 @@
+c:\Users\heitor.neto\documents\visual studio 2017\Projects\WpfTeste\Utilitarios\bin\Debug\Utilitarios.dll
+c:\Users\heitor.neto\documents\visual studio 2017\Projects\WpfTeste\Utilitarios\bin\Debug\Utilitarios.pdb
+c:\Users\heitor.neto\documents\visual studio 2017\Projects\WpfTeste\Utilitarios\obj\Debug\Utilitarios.csproj.CoreCompileInputs.cache
+c:\Users\heitor.neto\documents\visual studio 2017\Projects\WpfTeste\Utilitarios\obj\Debug\Utilitarios.dll
+c:\Users\heitor.neto\documents\visual studio 2017\Projects\WpfTeste\Utilitarios\obj\Debug\Utilitarios.pdb
+c:\Users\heitor.neto\documents\visual studio 2017\Projects\WpfTeste\bin\Utilitarios.dll
+c:\Users\heitor.neto\documents\visual studio 2017\Projects\WpfTeste\bin\Utilitarios.pdb
+c:\Users\heitor.neto\documents\visual studio 2017\Projects\WpfTeste\Utilitarios\obj\Debug\Utilitarios.csprojResolveAssemblyReference.cache
